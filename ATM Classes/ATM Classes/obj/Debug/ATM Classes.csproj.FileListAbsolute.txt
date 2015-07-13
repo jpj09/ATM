@@ -1,0 +1,5 @@
+c:\users\azadeh\documents\visual studio 2013\Projects\ATM Classes\ATM Classes\obj\Debug\ATM Classes.csprojResolveAssemblyReference.cache
+c:\users\azadeh\documents\visual studio 2013\Projects\ATM Classes\ATM Classes\bin\Debug\ATM Classes.dll
+c:\users\azadeh\documents\visual studio 2013\Projects\ATM Classes\ATM Classes\bin\Debug\ATM Classes.pdb
+c:\users\azadeh\documents\visual studio 2013\Projects\ATM Classes\ATM Classes\obj\Debug\ATM Classes.dll
+c:\users\azadeh\documents\visual studio 2013\Projects\ATM Classes\ATM Classes\obj\Debug\ATM Classes.pdb

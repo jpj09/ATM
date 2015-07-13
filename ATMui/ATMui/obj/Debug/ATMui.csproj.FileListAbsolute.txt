@@ -1,0 +1,17 @@
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\bin\Debug\ATMui.exe.config
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\bin\Debug\ATMui.exe
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\bin\Debug\ATMui.pdb
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\bin\Debug\ATM Classes.dll
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\bin\Debug\ATM Classes.pdb
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.csprojResolveAssemblyReference.cache
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.Form1.resources
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.Managerui.resources
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.Properties.Resources.resources
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.csproj.GenerateResource.Cache
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.exe
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.pdb
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.Deposit.resources
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.WithDraw.resources
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.Transfer.resources
+c:\users\azadeh\documents\visual studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.PayBill.resources
+C:\Users\Azadeh\Documents\Visual Studio 2013\Projects\ATMui\ATMui\obj\Debug\ATMui.AdminForm.resources
